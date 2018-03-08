@@ -1,3 +1,5 @@
+<p align="middle"><img src='https://i.imgur.com/PY2u8gz.png' /></p>  
+
 # Brute Panel
 Brute Panel is a modern admin login path finder written in Python.
 
